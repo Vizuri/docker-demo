@@ -16,6 +16,6 @@ The `demo_pq` directory contains the demo application.
 
 - `docker-compose build`
 
-## Run
+## Run 2
 
 - `docker-compose up`
